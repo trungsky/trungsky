@@ -1,6 +1,6 @@
 <h2 align="center">Github stats :bar_chart:</h2>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h4 align="center">Visitor's count :eyes::eyes::eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{trungsky}/count.svg" alt="trungsky :: Visitor's Count" /></p>
 
