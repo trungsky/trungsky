@@ -6,7 +6,7 @@
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungsky&langs_count=12&theme=tokyonight&layout=compact" alt="trungsky :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungsky&langs_count=8&theme=tokyonight&layout=compact" alt="trungsky :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
